@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro. 👋
 
-- Atualmente buscando todas as skills necessárias para um Dev Java Jr.
+- Um dev tentando fazer algo depois da rotina de trabalho.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pethoriano&layout=compact)](https://github.com/Pethoriano)
 
