@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Pedro. 👋
+## João Pedro Guimarães.
 
 - Um dev tentando fazer algo depois da rotina de trabalho.
 
